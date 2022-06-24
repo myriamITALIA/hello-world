@@ -1,4 +1,4 @@
-# Hello, World!
-a new line
-Name = print("What is your name? ")
-print("Your name is " + Name)
+# Bonjour et bienvenue à tous
+alors il est pas trop stylé mon site ???
+#
+# Bisous les rageux
